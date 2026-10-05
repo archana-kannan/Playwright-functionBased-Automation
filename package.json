@@ -1,0 +1,21 @@
+{
+  "name": "playwright-functionbased-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archana-kannan/Playwright-functionBased-Automation.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/archana-kannan/Playwright-functionBased-Automation/issues"
+  },
+  "homepage": "https://github.com/archana-kannan/Playwright-functionBased-Automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4"
+  }
+}
